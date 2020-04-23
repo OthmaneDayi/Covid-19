@@ -27,6 +27,8 @@
 2020-04-18,"Ontario","Hospitalization",828,687,"1497","https://files.ontario.ca/moh-covid-19-modelling-potential-scenarios-en-2020-04-20.pdf"," NA"
 2020-04-19,"Ontario","Hospitalization",809,687,"1497","https://files.ontario.ca/moh-covid-19-modelling-potential-scenarios-en-2020-04-20.pdf"," NA"
 2020-04-20,"Ontario","Hospitalization",802,687,"1497","https://files.ontario.ca/moh-covid-19-modelling-potential-scenarios-en-2020-04-20.pdf"," NA"
+2020-04-21,"Ontario","Hospitalization",859,687,"1497","https://files.ontario.ca/moh-covid-19-modelling-potential-scenarios-en-2020-04-20.pdf"," NA"
+2020-04-22,"Ontario","Hospitalization",578,687,"1497","https://files.ontario.ca/moh-covid-19-modelling-potential-scenarios-en-2020-04-20.pdf"," NA"
 2020-03-16,"Quebec","Hospitalization",2,633," NA"," https://cdn-contenu.quebec.ca/cdn-contenu/sante/documents/Problemes_de_sante/covid-19/COVID_potential_scenarios.pdf?1586293655"," NA"
 2020-03-17,"Quebec","Hospitalization",5,633," NA"," https://cdn-contenu.quebec.ca/cdn-contenu/sante/documents/Problemes_de_sante/covid-19/COVID_potential_scenarios.pdf?1586293655"," NA"
 2020-03-18,"Quebec","Hospitalization",6,633," NA"," https://cdn-contenu.quebec.ca/cdn-contenu/sante/documents/Problemes_de_sante/covid-19/COVID_potential_scenarios.pdf?1586293655"," NA"
@@ -63,6 +65,8 @@
 2020-04-18,"Quebec","Hospitalization",1130,633," NA"," https://cdn-contenu.quebec.ca/cdn-contenu/sante/documents/Problemes_de_sante/covid-19/COVID_potential_scenarios.pdf?1586293655"," NA"
 2020-04-19,"Quebec","Hospitalization",1102,633," NA"," https://cdn-contenu.quebec.ca/cdn-contenu/sante/documents/Problemes_de_sante/covid-19/COVID_potential_scenarios.pdf?1586293655"," NA"
 2020-04-20,"Quebec","Hospitalization",1169,633," NA"," https://cdn-contenu.quebec.ca/cdn-contenu/sante/documents/Problemes_de_sante/covid-19/COVID_potential_scenarios.pdf?1586293655"," NA"
+2020-04-21,"Quebec","Hospitalization",1224,633," NA"," https://cdn-contenu.quebec.ca/cdn-contenu/sante/documents/Problemes_de_sante/covid-19/COVID_potential_scenarios.pdf?1586293655"," NA"
+2020-04-22,"Quebec","Hospitalization",1278,633," NA"," https://cdn-contenu.quebec.ca/cdn-contenu/sante/documents/Problemes_de_sante/covid-19/COVID_potential_scenarios.pdf?1586293655"," NA"
 2020-03-18,"British Columbia","Hospitalization",13,206," NA"," https://news.gov.bc.ca/files/COVID19_TechnicalBriefing_Mar27_2020.pdf "," Only using ICU in Primary COVID Sites"
 2020-03-19,"British Columbia","Hospitalization",17,206," NA"," https://news.gov.bc.ca/files/COVID19_TechnicalBriefing_Mar27_2020.pdf "," Only using ICU in Primary COVID Sites"
 2020-03-20,"British Columbia","Hospitalization",22,206," NA"," https://news.gov.bc.ca/files/COVID19_TechnicalBriefing_Mar27_2020.pdf "," Only using ICU in Primary COVID Sites"
@@ -98,45 +102,52 @@
 2020-04-18,"British Columbia","Hospitalization",115,206," NA"," https://news.gov.bc.ca/files/COVID19_TechnicalBriefing_Mar27_2020.pdf "," Only using ICU in Primary COVID Sites"
 2020-04-19,"British Columbia","Hospitalization",109,206," NA"," https://news.gov.bc.ca/files/COVID19_TechnicalBriefing_Mar27_2020.pdf "," Only using ICU in Primary COVID Sites"
 2020-04-20,"British Columbia","Hospitalization",104,206," NA"," https://news.gov.bc.ca/files/COVID19_TechnicalBriefing_Mar27_2020.pdf "," Only using ICU in Primary COVID Sites"
-2020-03-13,"Canada","Hospitalization",1,NA,NA,NA,NA
-2020-03-14,"Canada","Hospitalization",3,NA,NA,NA,NA
-2020-03-15,"Canada","Hospitalization",3,NA,NA,NA,NA
-2020-03-16,"Canada","Hospitalization",7,NA,NA,NA,NA
-2020-03-17,"Canada","Hospitalization",10,NA,NA,NA,NA
-2020-03-18,"Canada","Hospitalization",25,NA,NA,NA,NA
-2020-03-19,"Canada","Hospitalization",51,NA,NA,NA,NA
-2020-03-20,"Canada","Hospitalization",65,NA,NA,NA,NA
-2020-03-21,"Canada","Hospitalization",45,NA,NA,NA,NA
-2020-03-22,"Canada","Hospitalization",59,NA,NA,NA,NA
-2020-03-23,"Canada","Hospitalization",135,NA,NA,NA,NA
-2020-03-24,"Canada","Hospitalization",195,NA,NA,NA,NA
-2020-03-25,"Canada","Hospitalization",202,NA,NA,NA,NA
-2020-03-26,"Canada","Hospitalization",280,NA,NA,NA,NA
-2020-03-27,"Canada","Hospitalization",303,NA,NA,NA,NA
-2020-03-28,"Canada","Hospitalization",277,NA,NA,NA,NA
-2020-03-29,"Canada","Hospitalization",319,NA,NA,NA,NA
-2020-03-30,"Canada","Hospitalization",378,NA,NA,NA,NA
-2020-03-31,"Canada","Hospitalization",738,NA,NA,NA,NA
-2020-04-01,"Canada","Hospitalization",833,NA,NA,NA,NA
-2020-04-02,"Canada","Hospitalization",970,NA,NA,NA,NA
-2020-04-03,"Canada","Hospitalization",1130,NA,NA,NA,NA
-2020-04-04,"Canada","Hospitalization",1204,NA,NA,NA,NA
-2020-04-05,"Canada","Hospitalization",1270,NA,NA,NA,NA
-2020-04-06,"Canada","Hospitalization",1342,NA,NA,NA,NA
-2020-04-07,"Canada","Hospitalization",1421,NA,NA,NA,NA
-2020-04-08,"Canada","Hospitalization",1459,NA,NA,NA,NA
-2020-04-09,"Canada","Hospitalization",1530,NA,NA,NA,NA
-2020-04-10,"Canada","Hospitalization",1620,NA,NA,NA,NA
-2020-04-11,"Canada","Hospitalization",1685,NA,NA,NA,NA
-2020-04-12,"Canada","Hospitalization",1780,NA,NA,NA,NA
-2020-04-13,"Canada","Hospitalization",1998,NA,NA,NA,NA
-2020-04-14,"Canada","Hospitalization",1922,NA,NA,NA,NA
-2020-04-15,"Canada","Hospitalization",1993,NA,NA,NA,NA
-2020-04-16,"Canada","Hospitalization",2029,NA,NA,NA,NA
-2020-04-17,"Canada","Hospitalization",2121,NA,NA,NA,NA
-2020-04-18,"Canada","Hospitalization",2164,NA,NA,NA,NA
-2020-04-19,"Canada","Hospitalization",2119,NA,NA,NA,NA
-2020-04-20,"Canada","Hospitalization",2173,NA,NA,NA,NA
+2020-04-21,"British Columbia","Hospitalization",109,206," NA"," https://news.gov.bc.ca/files/COVID19_TechnicalBriefing_Mar27_2020.pdf "," Only using ICU in Primary COVID Sites"
+2020-04-22,"British Columbia","Hospitalization",103,206," NA"," https://news.gov.bc.ca/files/COVID19_TechnicalBriefing_Mar27_2020.pdf "," Only using ICU in Primary COVID Sites"
+2020-03-09,"Canada","Hospitalization",9,NA,NA,NA,NA
+2020-03-10,"Canada","Hospitalization",10,NA,NA,NA,NA
+2020-03-11,"Canada","Hospitalization",11,NA,NA,NA,NA
+2020-03-13,"Canada","Hospitalization",13,NA,NA,NA,NA
+2020-03-14,"Canada","Hospitalization",13,NA,NA,NA,NA
+2020-03-15,"Canada","Hospitalization",13,NA,NA,NA,NA
+2020-03-16,"Canada","Hospitalization",16,NA,NA,NA,NA
+2020-03-17,"Canada","Hospitalization",21,NA,NA,NA,NA
+2020-03-18,"Canada","Hospitalization",40,NA,NA,NA,NA
+2020-03-19,"Canada","Hospitalization",69,NA,NA,NA,NA
+2020-03-20,"Canada","Hospitalization",79,NA,NA,NA,NA
+2020-03-21,"Canada","Hospitalization",61,NA,NA,NA,NA
+2020-03-22,"Canada","Hospitalization",69,NA,NA,NA,NA
+2020-03-23,"Canada","Hospitalization",147,NA,NA,NA,NA
+2020-03-24,"Canada","Hospitalization",213,NA,NA,NA,NA
+2020-03-25,"Canada","Hospitalization",223,NA,NA,NA,NA
+2020-03-26,"Canada","Hospitalization",301,NA,NA,NA,NA
+2020-03-27,"Canada","Hospitalization",323,NA,NA,NA,NA
+2020-03-28,"Canada","Hospitalization",297,NA,NA,NA,NA
+2020-03-29,"Canada","Hospitalization",339,NA,NA,NA,NA
+2020-03-30,"Canada","Hospitalization",400,NA,NA,NA,NA
+2020-03-31,"Canada","Hospitalization",762,NA,NA,NA,NA
+2020-04-01,"Canada","Hospitalization",853,NA,NA,NA,NA
+2020-04-02,"Canada","Hospitalization",989,NA,NA,NA,NA
+2020-04-03,"Canada","Hospitalization",1144,NA,NA,NA,NA
+2020-04-04,"Canada","Hospitalization",1217,NA,NA,NA,NA
+2020-04-05,"Canada","Hospitalization",1274,NA,NA,NA,NA
+2020-04-06,"Canada","Hospitalization",1355,NA,NA,NA,NA
+2020-04-07,"Canada","Hospitalization",1433,NA,NA,NA,NA
+2020-04-08,"Canada","Hospitalization",1472,NA,NA,NA,NA
+2020-04-09,"Canada","Hospitalization",1542,NA,NA,NA,NA
+2020-04-10,"Canada","Hospitalization",1632,NA,NA,NA,NA
+2020-04-11,"Canada","Hospitalization",1698,NA,NA,NA,NA
+2020-04-12,"Canada","Hospitalization",1795,NA,NA,NA,NA
+2020-04-13,"Canada","Hospitalization",2010,NA,NA,NA,NA
+2020-04-14,"Canada","Hospitalization",1935,NA,NA,NA,NA
+2020-04-15,"Canada","Hospitalization",2013,NA,NA,NA,NA
+2020-04-16,"Canada","Hospitalization",2049,NA,NA,NA,NA
+2020-04-17,"Canada","Hospitalization",2132,NA,NA,NA,NA
+2020-04-18,"Canada","Hospitalization",2172,NA,NA,NA,NA
+2020-04-19,"Canada","Hospitalization",2124,NA,NA,NA,NA
+2020-04-20,"Canada","Hospitalization",2188,NA,NA,NA,NA
+2020-04-21,"Canada","Hospitalization",2294,NA,NA,NA,NA
+2020-04-22,"Canada","Hospitalization",2062,NA,NA,NA,NA
 2020-03-19,"France","Hospitalization",7961,NA,NA,NA,NA
 2020-03-20,"France","Hospitalization",10272,NA,NA,NA,NA
 2020-03-21,"France","Hospitalization",11599,NA,NA,NA,NA
@@ -170,46 +181,50 @@
 2020-04-18,"France","Hospitalization",60741,NA,NA,NA,NA
 2020-04-19,"France","Hospitalization",60686,NA,NA,NA,NA
 2020-04-20,"France","Hospitalization",60625,NA,NA,NA,NA
+2020-04-21,"France","Hospitalization",59673,NA,NA,NA,NA
+2020-04-22,"France","Hospitalization",58963,NA,NA,NA,NA
 2020-03-12,"Colombia","Hospitalization",1,NA,NA,NA,NA
 2020-03-13,"Colombia","Hospitalization",1,NA,NA,NA,NA
 2020-03-14,"Colombia","Hospitalization",1,NA,NA,NA,NA
 2020-03-15,"Colombia","Hospitalization",1,NA,NA,NA,NA
 2020-03-16,"Colombia","Hospitalization",1,NA,NA,NA,NA
 2020-03-17,"Colombia","Hospitalization",1,NA,NA,NA,NA
-2020-03-18,"Colombia","Hospitalization",2,NA,NA,NA,NA
-2020-03-19,"Colombia","Hospitalization",3,NA,NA,NA,NA
-2020-03-20,"Colombia","Hospitalization",3,NA,NA,NA,NA
-2020-03-21,"Colombia","Hospitalization",3,NA,NA,NA,NA
+2020-03-18,"Colombia","Hospitalization",1,NA,NA,NA,NA
+2020-03-19,"Colombia","Hospitalization",2,NA,NA,NA,NA
+2020-03-20,"Colombia","Hospitalization",2,NA,NA,NA,NA
+2020-03-21,"Colombia","Hospitalization",2,NA,NA,NA,NA
 2020-03-22,"Colombia","Hospitalization",4,NA,NA,NA,NA
-2020-03-23,"Colombia","Hospitalization",9,NA,NA,NA,NA
-2020-03-24,"Colombia","Hospitalization",15,NA,NA,NA,NA
+2020-03-23,"Colombia","Hospitalization",8,NA,NA,NA,NA
+2020-03-24,"Colombia","Hospitalization",14,NA,NA,NA,NA
 2020-03-25,"Colombia","Hospitalization",18,NA,NA,NA,NA
-2020-03-26,"Colombia","Hospitalization",25,NA,NA,NA,NA
-2020-03-27,"Colombia","Hospitalization",34,NA,NA,NA,NA
-2020-03-28,"Colombia","Hospitalization",40,NA,NA,NA,NA
-2020-03-29,"Colombia","Hospitalization",48,NA,NA,NA,NA
-2020-03-30,"Colombia","Hospitalization",62,NA,NA,NA,NA
-2020-03-31,"Colombia","Hospitalization",79,NA,NA,NA,NA
-2020-04-01,"Colombia","Hospitalization",89,NA,NA,NA,NA
-2020-04-02,"Colombia","Hospitalization",101,NA,NA,NA,NA
-2020-04-03,"Colombia","Hospitalization",116,NA,NA,NA,NA
-2020-04-04,"Colombia","Hospitalization",126,NA,NA,NA,NA
-2020-04-05,"Colombia","Hospitalization",140,NA,NA,NA,NA
-2020-04-06,"Colombia","Hospitalization",154,NA,NA,NA,NA
-2020-04-07,"Colombia","Hospitalization",168,NA,NA,NA,NA
-2020-04-08,"Colombia","Hospitalization",175,NA,NA,NA,NA
-2020-04-09,"Colombia","Hospitalization",190,NA,NA,NA,NA
-2020-04-10,"Colombia","Hospitalization",199,NA,NA,NA,NA
-2020-04-11,"Colombia","Hospitalization",227,NA,NA,NA,NA
-2020-04-12,"Colombia","Hospitalization",245,NA,NA,NA,NA
-2020-04-13,"Colombia","Hospitalization",259,NA,NA,NA,NA
-2020-04-14,"Colombia","Hospitalization",275,NA,NA,NA,NA
-2020-04-15,"Colombia","Hospitalization",284,NA,NA,NA,NA
-2020-04-16,"Colombia","Hospitalization",297,NA,NA,NA,NA
-2020-04-17,"Colombia","Hospitalization",302,NA,NA,NA,NA
-2020-04-18,"Colombia","Hospitalization",304,NA,NA,NA,NA
+2020-03-26,"Colombia","Hospitalization",24,NA,NA,NA,NA
+2020-03-27,"Colombia","Hospitalization",33,NA,NA,NA,NA
+2020-03-28,"Colombia","Hospitalization",38,NA,NA,NA,NA
+2020-03-29,"Colombia","Hospitalization",45,NA,NA,NA,NA
+2020-03-30,"Colombia","Hospitalization",60,NA,NA,NA,NA
+2020-03-31,"Colombia","Hospitalization",77,NA,NA,NA,NA
+2020-04-01,"Colombia","Hospitalization",86,NA,NA,NA,NA
+2020-04-02,"Colombia","Hospitalization",95,NA,NA,NA,NA
+2020-04-03,"Colombia","Hospitalization",107,NA,NA,NA,NA
+2020-04-04,"Colombia","Hospitalization",115,NA,NA,NA,NA
+2020-04-05,"Colombia","Hospitalization",129,NA,NA,NA,NA
+2020-04-06,"Colombia","Hospitalization",144,NA,NA,NA,NA
+2020-04-07,"Colombia","Hospitalization",157,NA,NA,NA,NA
+2020-04-08,"Colombia","Hospitalization",167,NA,NA,NA,NA
+2020-04-09,"Colombia","Hospitalization",182,NA,NA,NA,NA
+2020-04-10,"Colombia","Hospitalization",189,NA,NA,NA,NA
+2020-04-11,"Colombia","Hospitalization",216,NA,NA,NA,NA
+2020-04-12,"Colombia","Hospitalization",230,NA,NA,NA,NA
+2020-04-13,"Colombia","Hospitalization",241,NA,NA,NA,NA
+2020-04-14,"Colombia","Hospitalization",261,NA,NA,NA,NA
+2020-04-15,"Colombia","Hospitalization",271,NA,NA,NA,NA
+2020-04-16,"Colombia","Hospitalization",286,NA,NA,NA,NA
+2020-04-17,"Colombia","Hospitalization",294,NA,NA,NA,NA
+2020-04-18,"Colombia","Hospitalization",301,NA,NA,NA,NA
 2020-04-19,"Colombia","Hospitalization",306,NA,NA,NA,NA
-2020-04-20,"Colombia","Hospitalization",306,NA,NA,NA,NA
+2020-04-20,"Colombia","Hospitalization",308,NA,NA,NA,NA
+2020-04-21,"Colombia","Hospitalization",308,NA,NA,NA,NA
+2020-04-22,"Colombia","Hospitalization",308,NA,NA,NA,NA
 2020-03-23,"USA","Hospitalization",141,NA,NA,NA,NA
 2020-03-24,"USA","Hospitalization",485,NA,NA,NA,NA
 2020-03-25,"USA","Hospitalization",892,NA,NA,NA,NA
@@ -231,14 +246,16 @@
 2020-04-10,"USA","Hospitalization",49310,NA,NA,NA,NA
 2020-04-11,"USA","Hospitalization",52250,NA,NA,NA,NA
 2020-04-12,"USA","Hospitalization",52235,NA,NA,NA,NA
-2020-04-13,"USA","Hospitalization",51810,NA,NA,NA,NA
-2020-04-14,"USA","Hospitalization",55103,NA,NA,NA,NA
-2020-04-15,"USA","Hospitalization",59239,NA,NA,NA,NA
-2020-04-16,"USA","Hospitalization",58353,NA,NA,NA,NA
-2020-04-17,"USA","Hospitalization",57821,NA,NA,NA,NA
-2020-04-18,"USA","Hospitalization",56554,NA,NA,NA,NA
-2020-04-19,"USA","Hospitalization",55490,NA,NA,NA,NA
+2020-04-13,"USA","Hospitalization",55264,NA,NA,NA,NA
+2020-04-14,"USA","Hospitalization",58718,NA,NA,NA,NA
+2020-04-15,"USA","Hospitalization",59420,NA,NA,NA,NA
+2020-04-16,"USA","Hospitalization",58628,NA,NA,NA,NA
+2020-04-17,"USA","Hospitalization",57858,NA,NA,NA,NA
+2020-04-18,"USA","Hospitalization",56575,NA,NA,NA,NA
+2020-04-19,"USA","Hospitalization",55565,NA,NA,NA,NA
 2020-04-20,"USA","Hospitalization",55509,NA,NA,NA,NA
+2020-04-21,"USA","Hospitalization",58468,NA,NA,NA,NA
+2020-04-22,"USA","Hospitalization",58173,NA,NA,NA,NA
 2020-03-26,"New York","Hospitalization",5327,NA,NA,NA,NA
 2020-03-27,"New York","Hospitalization",6481,NA,NA,NA,NA
 2020-03-28,"New York","Hospitalization",7328,NA,NA,NA,NA
@@ -265,6 +282,8 @@
 2020-04-18,"New York","Hospitalization",16967,NA,NA,NA,NA
 2020-04-19,"New York","Hospitalization",16213,NA,NA,NA,NA
 2020-04-20,"New York","Hospitalization",16103,NA,NA,NA,NA
+2020-04-21,"New York","Hospitalization",16076,NA,NA,NA,NA
+2020-04-22,"New York","Hospitalization",15599,NA,NA,NA,NA
 2020-03-23,"Ontario","ICU",12,687,"1497","https://files.ontario.ca/moh-covid-19-modelling-potential-scenarios-en-2020-04-20.pdf"," NA"
 2020-03-24,"Ontario","ICU",17,687,"1497","https://files.ontario.ca/moh-covid-19-modelling-potential-scenarios-en-2020-04-20.pdf"," NA"
 2020-03-25,"Ontario","ICU",17,687,"1497","https://files.ontario.ca/moh-covid-19-modelling-potential-scenarios-en-2020-04-20.pdf"," NA"
@@ -293,6 +312,8 @@
 2020-04-18,"Ontario","ICU",250,687,"1497","https://files.ontario.ca/moh-covid-19-modelling-potential-scenarios-en-2020-04-20.pdf"," NA"
 2020-04-19,"Ontario","ICU",247,687,"1497","https://files.ontario.ca/moh-covid-19-modelling-potential-scenarios-en-2020-04-20.pdf"," NA"
 2020-04-20,"Ontario","ICU",247,687,"1497","https://files.ontario.ca/moh-covid-19-modelling-potential-scenarios-en-2020-04-20.pdf"," NA"
+2020-04-21,"Ontario","ICU",250,687,"1497","https://files.ontario.ca/moh-covid-19-modelling-potential-scenarios-en-2020-04-20.pdf"," NA"
+2020-04-22,"Ontario","ICU",243,687,"1497","https://files.ontario.ca/moh-covid-19-modelling-potential-scenarios-en-2020-04-20.pdf"," NA"
 2020-03-18,"Quebec","ICU",4,633," NA"," https://cdn-contenu.quebec.ca/cdn-contenu/sante/documents/Problemes_de_sante/covid-19/COVID_potential_scenarios.pdf?1586293655"," NA"
 2020-03-19,"Quebec","ICU",4,633," NA"," https://cdn-contenu.quebec.ca/cdn-contenu/sante/documents/Problemes_de_sante/covid-19/COVID_potential_scenarios.pdf?1586293655"," NA"
 2020-03-20,"Quebec","ICU",6,633," NA"," https://cdn-contenu.quebec.ca/cdn-contenu/sante/documents/Problemes_de_sante/covid-19/COVID_potential_scenarios.pdf?1586293655"," NA"
@@ -327,6 +348,8 @@
 2020-04-18,"Quebec","ICU",258,633," NA"," https://cdn-contenu.quebec.ca/cdn-contenu/sante/documents/Problemes_de_sante/covid-19/COVID_potential_scenarios.pdf?1586293655"," NA"
 2020-04-19,"Quebec","ICU",183,633," NA"," https://cdn-contenu.quebec.ca/cdn-contenu/sante/documents/Problemes_de_sante/covid-19/COVID_potential_scenarios.pdf?1586293655"," NA"
 2020-04-20,"Quebec","ICU",198,633," NA"," https://cdn-contenu.quebec.ca/cdn-contenu/sante/documents/Problemes_de_sante/covid-19/COVID_potential_scenarios.pdf?1586293655"," NA"
+2020-04-21,"Quebec","ICU",201,633," NA"," https://cdn-contenu.quebec.ca/cdn-contenu/sante/documents/Problemes_de_sante/covid-19/COVID_potential_scenarios.pdf?1586293655"," NA"
+2020-04-22,"Quebec","ICU",199,633," NA"," https://cdn-contenu.quebec.ca/cdn-contenu/sante/documents/Problemes_de_sante/covid-19/COVID_potential_scenarios.pdf?1586293655"," NA"
 2020-03-18,"British Columbia","ICU",7,206," NA"," https://news.gov.bc.ca/files/COVID19_TechnicalBriefing_Mar27_2020.pdf "," Only using ICU in Primary COVID Sites"
 2020-03-19,"British Columbia","ICU",9,206," NA"," https://news.gov.bc.ca/files/COVID19_TechnicalBriefing_Mar27_2020.pdf "," Only using ICU in Primary COVID Sites"
 2020-03-20,"British Columbia","ICU",10,206," NA"," https://news.gov.bc.ca/files/COVID19_TechnicalBriefing_Mar27_2020.pdf "," Only using ICU in Primary COVID Sites"
@@ -362,45 +385,49 @@
 2020-04-18,"British Columbia","ICU",55,206," NA"," https://news.gov.bc.ca/files/COVID19_TechnicalBriefing_Mar27_2020.pdf "," Only using ICU in Primary COVID Sites"
 2020-04-19,"British Columbia","ICU",52,206," NA"," https://news.gov.bc.ca/files/COVID19_TechnicalBriefing_Mar27_2020.pdf "," Only using ICU in Primary COVID Sites"
 2020-04-20,"British Columbia","ICU",49,206," NA"," https://news.gov.bc.ca/files/COVID19_TechnicalBriefing_Mar27_2020.pdf "," Only using ICU in Primary COVID Sites"
-2020-03-13,"Canada","ICU",1,NA,NA,NA,NA
+2020-04-21,"British Columbia","ICU",51,206," NA"," https://news.gov.bc.ca/files/COVID19_TechnicalBriefing_Mar27_2020.pdf "," Only using ICU in Primary COVID Sites"
+2020-04-22,"British Columbia","ICU",46,206," NA"," https://news.gov.bc.ca/files/COVID19_TechnicalBriefing_Mar27_2020.pdf "," Only using ICU in Primary COVID Sites"
+2020-03-13,"Canada","ICU",2,NA,NA,NA,NA
 2020-03-14,"Canada","ICU",2,NA,NA,NA,NA
 2020-03-15,"Canada","ICU",2,NA,NA,NA,NA
 2020-03-16,"Canada","ICU",2,NA,NA,NA,NA
-2020-03-17,"Canada","ICU",2,NA,NA,NA,NA
+2020-03-17,"Canada","ICU",3,NA,NA,NA,NA
 2020-03-18,"Canada","ICU",14,NA,NA,NA,NA
-2020-03-19,"Canada","ICU",15,NA,NA,NA,NA
-2020-03-20,"Canada","ICU",21,NA,NA,NA,NA
-2020-03-21,"Canada","ICU",28,NA,NA,NA,NA
-2020-03-22,"Canada","ICU",33,NA,NA,NA,NA
-2020-03-23,"Canada","ICU",53,NA,NA,NA,NA
-2020-03-24,"Canada","ICU",78,NA,NA,NA,NA
-2020-03-25,"Canada","ICU",86,NA,NA,NA,NA
-2020-03-26,"Canada","ICU",110,NA,NA,NA,NA
-2020-03-27,"Canada","ICU",144,NA,NA,NA,NA
-2020-03-28,"Canada","ICU",186,NA,NA,NA,NA
-2020-03-29,"Canada","ICU",142,NA,NA,NA,NA
-2020-03-30,"Canada","ICU",251,NA,NA,NA,NA
-2020-03-31,"Canada","ICU",282,NA,NA,NA,NA
-2020-04-01,"Canada","ICU",311,NA,NA,NA,NA
-2020-04-02,"Canada","ICU",353,NA,NA,NA,NA
-2020-04-03,"Canada","ICU",389,NA,NA,NA,NA
-2020-04-04,"Canada","ICU",415,NA,NA,NA,NA
-2020-04-05,"Canada","ICU",446,NA,NA,NA,NA
-2020-04-06,"Canada","ICU",480,NA,NA,NA,NA
-2020-04-07,"Canada","ICU",490,NA,NA,NA,NA
+2020-03-19,"Canada","ICU",21,NA,NA,NA,NA
+2020-03-20,"Canada","ICU",25,NA,NA,NA,NA
+2020-03-21,"Canada","ICU",32,NA,NA,NA,NA
+2020-03-22,"Canada","ICU",36,NA,NA,NA,NA
+2020-03-23,"Canada","ICU",56,NA,NA,NA,NA
+2020-03-24,"Canada","ICU",82,NA,NA,NA,NA
+2020-03-25,"Canada","ICU",89,NA,NA,NA,NA
+2020-03-26,"Canada","ICU",111,NA,NA,NA,NA
+2020-03-27,"Canada","ICU",147,NA,NA,NA,NA
+2020-03-28,"Canada","ICU",189,NA,NA,NA,NA
+2020-03-29,"Canada","ICU",145,NA,NA,NA,NA
+2020-03-30,"Canada","ICU",257,NA,NA,NA,NA
+2020-03-31,"Canada","ICU",289,NA,NA,NA,NA
+2020-04-01,"Canada","ICU",318,NA,NA,NA,NA
+2020-04-02,"Canada","ICU",359,NA,NA,NA,NA
+2020-04-03,"Canada","ICU",393,NA,NA,NA,NA
+2020-04-04,"Canada","ICU",421,NA,NA,NA,NA
+2020-04-05,"Canada","ICU",453,NA,NA,NA,NA
+2020-04-06,"Canada","ICU",482,NA,NA,NA,NA
+2020-04-07,"Canada","ICU",491,NA,NA,NA,NA
 2020-04-08,"Canada","ICU",516,NA,NA,NA,NA
-2020-04-09,"Canada","ICU",557,NA,NA,NA,NA
-2020-04-10,"Canada","ICU",538,NA,NA,NA,NA
-2020-04-11,"Canada","ICU",557,NA,NA,NA,NA
-2020-04-12,"Canada","ICU",563,NA,NA,NA,NA
+2020-04-09,"Canada","ICU",558,NA,NA,NA,NA
+2020-04-10,"Canada","ICU",540,NA,NA,NA,NA
+2020-04-11,"Canada","ICU",559,NA,NA,NA,NA
+2020-04-12,"Canada","ICU",564,NA,NA,NA,NA
 2020-04-13,"Canada","ICU",630,NA,NA,NA,NA
-2020-04-14,"Canada","ICU",568,NA,NA,NA,NA
-2020-04-15,"Canada","ICU",552,NA,NA,NA,NA
-2020-04-16,"Canada","ICU",536,NA,NA,NA,NA
-2020-04-17,"Canada","ICU",530,NA,NA,NA,NA
-2020-04-18,"Canada","ICU",593,NA,NA,NA,NA
-2020-04-19,"Canada","ICU",514,NA,NA,NA,NA
-2020-04-20,"Canada","ICU",523,NA,NA,NA,NA
+2020-04-14,"Canada","ICU",569,NA,NA,NA,NA
+2020-04-15,"Canada","ICU",555,NA,NA,NA,NA
+2020-04-16,"Canada","ICU",538,NA,NA,NA,NA
+2020-04-17,"Canada","ICU",531,NA,NA,NA,NA
+2020-04-18,"Canada","ICU",595,NA,NA,NA,NA
+2020-04-19,"Canada","ICU",517,NA,NA,NA,NA
+2020-04-20,"Canada","ICU",531,NA,NA,NA,NA
+2020-04-21,"Canada","ICU",533,NA,NA,NA,NA
+2020-04-22,"Canada","ICU",517,NA,NA,NA,NA
 2020-03-19,"France","ICU",1975,NA,NA,NA,NA
 2020-03-20,"France","ICU",2564,NA,NA,NA,NA
 2020-03-21,"France","ICU",2872,NA,NA,NA,NA
@@ -434,41 +461,45 @@
 2020-04-18,"France","ICU",11405,NA,NA,NA,NA
 2020-04-19,"France","ICU",11229,NA,NA,NA,NA
 2020-04-20,"France","ICU",11107,NA,NA,NA,NA
-2020-03-17,"Colombia","ICU",1,NA,NA,NA,NA
-2020-03-18,"Colombia","ICU",1,NA,NA,NA,NA
-2020-03-19,"Colombia","ICU",1,NA,NA,NA,NA
-2020-03-20,"Colombia","ICU",3,NA,NA,NA,NA
-2020-03-21,"Colombia","ICU",5,NA,NA,NA,NA
-2020-03-22,"Colombia","ICU",5,NA,NA,NA,NA
-2020-03-23,"Colombia","ICU",6,NA,NA,NA,NA
-2020-03-24,"Colombia","ICU",8,NA,NA,NA,NA
+2020-04-21,"France","ICU",10612,NA,NA,NA,NA
+2020-04-22,"France","ICU",10199,NA,NA,NA,NA
+2020-03-17,"Colombia","ICU",2,NA,NA,NA,NA
+2020-03-18,"Colombia","ICU",2,NA,NA,NA,NA
+2020-03-19,"Colombia","ICU",3,NA,NA,NA,NA
+2020-03-20,"Colombia","ICU",5,NA,NA,NA,NA
+2020-03-21,"Colombia","ICU",7,NA,NA,NA,NA
+2020-03-22,"Colombia","ICU",7,NA,NA,NA,NA
+2020-03-23,"Colombia","ICU",8,NA,NA,NA,NA
+2020-03-24,"Colombia","ICU",9,NA,NA,NA,NA
 2020-03-25,"Colombia","ICU",11,NA,NA,NA,NA
 2020-03-26,"Colombia","ICU",12,NA,NA,NA,NA
-2020-03-27,"Colombia","ICU",15,NA,NA,NA,NA
-2020-03-28,"Colombia","ICU",22,NA,NA,NA,NA
-2020-03-29,"Colombia","ICU",28,NA,NA,NA,NA
+2020-03-27,"Colombia","ICU",17,NA,NA,NA,NA
+2020-03-28,"Colombia","ICU",24,NA,NA,NA,NA
+2020-03-29,"Colombia","ICU",27,NA,NA,NA,NA
 2020-03-30,"Colombia","ICU",31,NA,NA,NA,NA
-2020-03-31,"Colombia","ICU",37,NA,NA,NA,NA
-2020-04-01,"Colombia","ICU",43,NA,NA,NA,NA
-2020-04-02,"Colombia","ICU",50,NA,NA,NA,NA
-2020-04-03,"Colombia","ICU",57,NA,NA,NA,NA
-2020-04-04,"Colombia","ICU",66,NA,NA,NA,NA
-2020-04-05,"Colombia","ICU",70,NA,NA,NA,NA
-2020-04-06,"Colombia","ICU",71,NA,NA,NA,NA
-2020-04-07,"Colombia","ICU",72,NA,NA,NA,NA
-2020-04-08,"Colombia","ICU",73,NA,NA,NA,NA
-2020-04-09,"Colombia","ICU",77,NA,NA,NA,NA
-2020-04-10,"Colombia","ICU",82,NA,NA,NA,NA
-2020-04-11,"Colombia","ICU",87,NA,NA,NA,NA
-2020-04-12,"Colombia","ICU",89,NA,NA,NA,NA
-2020-04-13,"Colombia","ICU",90,NA,NA,NA,NA
-2020-04-14,"Colombia","ICU",91,NA,NA,NA,NA
-2020-04-15,"Colombia","ICU",93,NA,NA,NA,NA
-2020-04-16,"Colombia","ICU",94,NA,NA,NA,NA
-2020-04-17,"Colombia","ICU",94,NA,NA,NA,NA
-2020-04-18,"Colombia","ICU",95,NA,NA,NA,NA
-2020-04-19,"Colombia","ICU",95,NA,NA,NA,NA
-2020-04-20,"Colombia","ICU",95,NA,NA,NA,NA
+2020-03-31,"Colombia","ICU",36,NA,NA,NA,NA
+2020-04-01,"Colombia","ICU",40,NA,NA,NA,NA
+2020-04-02,"Colombia","ICU",48,NA,NA,NA,NA
+2020-04-03,"Colombia","ICU",55,NA,NA,NA,NA
+2020-04-04,"Colombia","ICU",61,NA,NA,NA,NA
+2020-04-05,"Colombia","ICU",64,NA,NA,NA,NA
+2020-04-06,"Colombia","ICU",65,NA,NA,NA,NA
+2020-04-07,"Colombia","ICU",65,NA,NA,NA,NA
+2020-04-08,"Colombia","ICU",66,NA,NA,NA,NA
+2020-04-09,"Colombia","ICU",70,NA,NA,NA,NA
+2020-04-10,"Colombia","ICU",75,NA,NA,NA,NA
+2020-04-11,"Colombia","ICU",80,NA,NA,NA,NA
+2020-04-12,"Colombia","ICU",84,NA,NA,NA,NA
+2020-04-13,"Colombia","ICU",89,NA,NA,NA,NA
+2020-04-14,"Colombia","ICU",95,NA,NA,NA,NA
+2020-04-15,"Colombia","ICU",100,NA,NA,NA,NA
+2020-04-16,"Colombia","ICU",101,NA,NA,NA,NA
+2020-04-17,"Colombia","ICU",101,NA,NA,NA,NA
+2020-04-18,"Colombia","ICU",102,NA,NA,NA,NA
+2020-04-19,"Colombia","ICU",102,NA,NA,NA,NA
+2020-04-20,"Colombia","ICU",102,NA,NA,NA,NA
+2020-04-21,"Colombia","ICU",102,NA,NA,NA,NA
+2020-04-22,"Colombia","ICU",102,NA,NA,NA,NA
 2020-03-26,"USA","ICU",1299,NA,NA,NA,NA
 2020-03-27,"USA","ICU",1792,NA,NA,NA,NA
 2020-03-28,"USA","ICU",2174,NA,NA,NA,NA
@@ -495,6 +526,8 @@
 2020-04-18,"USA","ICU",14788,NA,NA,NA,NA
 2020-04-19,"USA","ICU",14548,NA,NA,NA,NA
 2020-04-20,"USA","ICU",14691,NA,NA,NA,NA
+2020-04-21,"USA","ICU",15228,NA,NA,NA,NA
+2020-04-22,"USA","ICU",15341,NA,NA,NA,NA
 2020-03-26,"New York","ICU",1290,NA,NA,NA,NA
 2020-03-27,"New York","ICU",1583,NA,NA,NA,NA
 2020-03-28,"New York","ICU",1755,NA,NA,NA,NA
@@ -521,3 +554,5 @@
 2020-04-18,"New York","ICU",5016,NA,NA,NA,NA
 2020-04-19,"New York","ICU",5016,NA,NA,NA,NA
 2020-04-20,"New York","ICU",5016,NA,NA,NA,NA
+2020-04-21,"New York","ICU",5016,NA,NA,NA,NA
+2020-04-22,"New York","ICU",5016,NA,NA,NA,NA
