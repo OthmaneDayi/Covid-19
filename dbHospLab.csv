@@ -1,17 +1,17 @@
 "Date","Country/Province","HospType","labs","Count"
-2020-04-30,"Ontario","Hospitalization","Hosp:925",925
-2020-04-30,"Quebec","Hospitalization","Hosp:1509",1509
-2020-04-30,"British Columbia","Hospitalization","Hosp:96",96
-2020-04-30,"Canada","Hospitalization","Hosp:2638",2638
-2020-05-01,"France","Hospitalization","Hosp:55962",55962
-2020-04-30,"Colombia","Hospitalization","Hosp:269",269
-2020-04-30,"USA","Hospitalization","Hosp:56312",56312
-2020-04-30,"New York","Hospitalization","Hosp:13524",13524
-2020-04-30,"Ontario","ICU","ICU:245",245
-2020-04-30,"Quebec","ICU","ICU:217",217
-2020-04-30,"British Columbia","ICU","ICU:41",41
-2020-04-30,"Canada","ICU","ICU:532",532
-2020-05-01,"France","ICU","ICU:9154",9154
-2020-04-30,"Colombia","ICU","ICU:118",118
-2020-04-30,"USA","ICU","ICU:15020",15020
-2020-04-30,"New York","ICU","ICU:5016",5016
+2020-05-04,"Ontario","Hospitalization","Hosp:977",977
+2020-05-04,"Quebec","Hospitalization","Hosp:1648",1648
+2020-05-04,"British Columbia","Hospitalization","Hosp:89",89
+2020-05-04,"Canada","Hospitalization","Hosp:2833",2833
+2020-05-04,"France","Hospitalization","Hosp:53392",53392
+2020-05-04,"Colombia","Hospitalization","Hosp:342",342
+2020-05-04,"USA","Hospitalization","Hosp:54930",54930
+2020-05-04,"New York","Hospitalization","Hosp:12159",12159
+2020-05-04,"Ontario","ICU","ICU:235",235
+2020-05-04,"Quebec","ICU","ICU:222",222
+2020-05-04,"British Columbia","ICU","ICU:35",35
+2020-05-04,"Canada","ICU","ICU:522",522
+2020-05-04,"France","ICU","ICU:8243",8243
+2020-05-04,"Colombia","ICU","ICU:117",117
+2020-05-04,"USA","ICU","ICU:9612",9612
+2020-05-04,"New York","ICU","ICU:NA",NA
